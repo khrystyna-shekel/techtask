@@ -1,0 +1,13 @@
+:root {
+  --white: #fff;
+  --blue: #3470ff;
+  --blue-accent: #0b44cd;
+
+  --filter-title: #8a8a89;
+  --filter-text-bg: #f7f7fb;
+  --filter-no-choice: rgba(18, 20, 23, 0.2);
+
+  --text-accent: #121417;
+  --text-desc: rgba(18, 20, 23, 0.5);
+  --vector: rgba(18, 20, 23, 0.1);
+}
